@@ -66,7 +66,7 @@ Your browser does not support the audio element.
 ---
 
 ## 📜 Paper
-See our [arXiv paper](#) for full details.
+Under review!
 
 ---
 
