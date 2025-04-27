@@ -12,8 +12,7 @@ Check out the examples below 👇
 
 Each example shows:
 - **Input Caption**
-- **Generated midi** (playable in browser)
-- **Notes about improvements (optional)**
+- **Generated midi** (rendered to mp3, playable in browser)
 
 ---
 
