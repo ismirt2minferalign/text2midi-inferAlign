@@ -27,7 +27,7 @@ We evaluate performance on the MidiCaps dataset using six objective metrics. Our
 | **CK** (Correct Key %) ↑             | 13.59     | **29.80**             |
 | **CKD** (Correct Key w/ Duplicates %) ↑ | 16.66  | **32.54**             |
 
-**Note:** All results are averaged over about 50% randomly selected captions from the MidiCaps test set (7913 examples).
+**Note:** All results are averaged over about **50%** randomly selected captions from the MidiCaps test set (7913 examples).
 
 ---
 
