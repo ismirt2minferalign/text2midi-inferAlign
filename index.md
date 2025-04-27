@@ -1,11 +1,10 @@
-# TEXT2MIDI-INFERALIGN
-
-**Improving Symbolic Music Generation with Inference-Time Alignment**
+<h1 align="center">🎼 Text2midi-InferAlign</h1>
+<p align="center"><b>Improving Symbolic Music Generation with Inference-Time Alignment</b></p>
 
 ---
 
-Welcome to the demo page for **Text2MIDI-InferAlign**!  
-Our method improves symbolic music generation by optimizing inference-time alignment between captions and MIDI outputs.
+Welcome to the demo page for **Text2midi-InferAlign**!  
+Our method improves symbolic music generation by optimizing inference-time alignment between captions and midi outputs.
 
 Check out the examples below 👇
 
@@ -13,7 +12,7 @@ Check out the examples below 👇
 
 Each example shows:
 - **Input Caption**
-- **Generated MIDI** (playable in browser)
+- **Generated midi** (playable in browser)
 - **Notes about improvements (optional)**
 
 ---
