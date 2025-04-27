@@ -20,14 +20,14 @@ We evaluate performance on the MidiCaps dataset using six objective metrics. Our
 
 | Metric                  | Text2Midi | Text2MIDI-InferAlign |
 |------------------------|-----------|-----------------------|
-| **CR** (Compression Ratio) ↑         | 2.21      | **2.49**              |
-| **CLAP** (Text-Audio Consistency) ↑  | 0.16      | **0.24**              |
-| **TB** (Tempo Bin %) ↑               | 37.50     | 37.50                 |
-| **TBT** (Tempo Bin w/ Tolerance %) ↑ | 62.50     | 62.50                 |
-| **CK** (Correct Key %) ↑             | 37.50     | **50.00**             |
-| **CKD** (Correct Key w/ Duplicates %) ↑ | 37.50  | **50.00**             |
+| **CR** (Compression Ratio) ↑         | 2.16      | **2.31**              |
+| **CLAP** (Text-Audio Consistency) ↑  | 0.17      | **0.22**              |
+| **TB** (Tempo Bin %) ↑               | 29.73     | 35.41                 |
+| **TBT** (Tempo Bin w/ Tolerance %) ↑ | 60.06     | 62.59                 |
+| **CK** (Correct Key %) ↑             | 13.59     | **29.80**             |
+| **CKD** (Correct Key w/ Duplicates %) ↑ | 16.66  | **32.54**             |
 
-**Note:** All results are averaged over 7913 randomly selected captions from the MidiCaps test set.
+**Note:** All results are averaged over about 50% randomly selected captions from the MidiCaps test set (7913 examples).
 
 ---
 
